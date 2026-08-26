@@ -1,6 +1,6 @@
 {
-  "vendor": "WebTigers/TigerVendor",
-  "api_base": "https://dev-com.webtigers.com/shop/authority",
-  "public_key": "uLbYh5VXSP2Z4DRRMtOdLrkR94Pc/PJJarm/M6UxqYo=",
-  "catalog": "https://dev-com.webtigers.com/dev-marketplace.json"
+    "vendor": "WebTigers/TigerVendor",
+    "api_base": "https://dev-com.webtigers.com/shop/authority",
+    "public_key": "uLbYh5VXSP2Z4DRRMtOdLrkR94Pc/PJJarm/M6UxqYo=",
+    "catalog": "https://dev-com.webtigers.com/marketplace/feed"
 }
